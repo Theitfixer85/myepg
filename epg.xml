@@ -1,247 +1,247 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="NBC 6 Miami FL (WTVJ)">
-    <display-name lang="en">NBC 6 Miami FL (WTVJ)</display-name>
-    <url>http://www.ontvtonight.com.us</url>
+  <channel id="NBC (WTVJ) (Opt-1)">
+    <display-name lang="en">NBC (WTVJ) (Opt-1)</display-name>
+    <url>http://www.ontvtonight.com</url>
   </channel>
-  <programme start="20200705050200 +0000" stop="20200705060200 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705050200 +0000" stop="20200705060200 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Access Hollywood</title>
   </programme>
-  <programme start="20200705060200 +0000" stop="20200705063200 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705060200 +0000" stop="20200705063200 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Open House NYC</title>
   </programme>
-  <programme start="20200705063200 +0000" stop="20200705070000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705063200 +0000" stop="20200705070000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Texas Music Scene</title>
   </programme>
-  <programme start="20200705070000 +0000" stop="20200705073000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705070000 +0000" stop="20200705073000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Judge Judy</title>
   </programme>
-  <programme start="20200705073000 +0000" stop="20200705080000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705073000 +0000" stop="20200705080000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Judge Judy</title>
   </programme>
-  <programme start="20200705080000 +0000" stop="20200705083000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705080000 +0000" stop="20200705083000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Texas Music Scene</title>
   </programme>
-  <programme start="20200705083000 +0000" stop="20200705090000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705083000 +0000" stop="20200705090000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">American Athlete</title>
   </programme>
-  <programme start="20200705090000 +0000" stop="20200705093000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705090000 +0000" stop="20200705093000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Pets.TV</title>
   </programme>
-  <programme start="20200705093000 +0000" stop="20200705103000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705093000 +0000" stop="20200705103000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Entertainers</title>
   </programme>
-  <programme start="20200705103000 +0000" stop="20200705110000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705103000 +0000" stop="20200705110000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Century 21</title>
   </programme>
-  <programme start="20200705110000 +0000" stop="20200705113000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705110000 +0000" stop="20200705113000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Today's Homeowner</title>
   </programme>
-  <programme start="20200705113000 +0000" stop="20200705120000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705113000 +0000" stop="20200705120000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Paid Programming</title>
   </programme>
-  <programme start="20200705120000 +0000" stop="20200705130000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705120000 +0000" stop="20200705130000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Sunday Today With Willie Geist</title>
   </programme>
-  <programme start="20200705130000 +0000" stop="20200705140000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705130000 +0000" stop="20200705140000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Meet the Press</title>
   </programme>
-  <programme start="20200705140000 +0000" stop="20200705143000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705140000 +0000" stop="20200705143000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">On the Money</title>
   </programme>
-  <programme start="20200705143000 +0000" stop="20200705150000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705143000 +0000" stop="20200705150000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Century 21</title>
   </programme>
-  <programme start="20200705150000 +0000" stop="20200705160000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705150000 +0000" stop="20200705160000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Paid Programming</title>
   </programme>
-  <programme start="20200705160000 +0000" stop="20200705163000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705160000 +0000" stop="20200705163000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Century 21</title>
   </programme>
-  <programme start="20200705163000 +0000" stop="20200705170000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705163000 +0000" stop="20200705170000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Reinvigorate Your Legs and Ft</title>
   </programme>
-  <programme start="20200705170000 +0000" stop="20200705173000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705170000 +0000" stop="20200705173000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">To Be Announced</title>
   </programme>
-  <programme start="20200705173000 +0000" stop="20200705180000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705173000 +0000" stop="20200705180000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Premier League Live</title>
   </programme>
-  <programme start="20200705180000 +0000" stop="20200705200000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705180000 +0000" stop="20200705200000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Premier League Soccer</title>
   </programme>
-  <programme start="20200705200000 +0000" stop="20200706000000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200705200000 +0000" stop="20200706000000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">NASCAR Cup Series</title>
   </programme>
-  <programme start="20200706000000 +0000" stop="20200706010000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706000000 +0000" stop="20200706010000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Hollywood Game Night</title>
   </programme>
-  <programme start="20200706010000 +0000" stop="20200706030000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706010000 +0000" stop="20200706030000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">America's Got Talent</title>
   </programme>
-  <programme start="20200706030000 +0000" stop="20200706033000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706030000 +0000" stop="20200706033000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Paid Programming</title>
   </programme>
-  <programme start="20200706033000 +0000" stop="20200706040000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706033000 +0000" stop="20200706040000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Funny You Should Ask</title>
   </programme>
-  <programme start="20200706040000 +0000" stop="20200706050000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706040000 +0000" stop="20200706050000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Dateline</title>
   </programme>
-  <programme start="20200706050000 +0000" stop="20200706060000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706050000 +0000" stop="20200706060000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Meet the Press</title>
   </programme>
-  <programme start="20200706060000 +0000" stop="20200706063000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706060000 +0000" stop="20200706063000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Open House NYC</title>
   </programme>
-  <programme start="20200706063000 +0000" stop="20200706073000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706063000 +0000" stop="20200706073000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Dateline</title>
   </programme>
-  <programme start="20200706073000 +0000" stop="20200706090000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706073000 +0000" stop="20200706090000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Early Today</title>
   </programme>
-  <programme start="20200706090000 +0000" stop="20200706093000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706090000 +0000" stop="20200706093000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">AgDay</title>
   </programme>
-  <programme start="20200706093000 +0000" stop="20200706103000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706093000 +0000" stop="20200706103000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Paid Programming</title>
   </programme>
-  <programme start="20200706103000 +0000" stop="20200706110000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706103000 +0000" stop="20200706110000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Early Today</title>
   </programme>
-  <programme start="20200706110000 +0000" stop="20200706130000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706110000 +0000" stop="20200706130000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Today</title>
   </programme>
-  <programme start="20200706130000 +0000" stop="20200706140000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706130000 +0000" stop="20200706140000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Today 3rd Hour</title>
   </programme>
-  <programme start="20200706140000 +0000" stop="20200706150000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706140000 +0000" stop="20200706150000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Today with Hoda &amp; Jenna</title>
   </programme>
-  <programme start="20200706150000 +0000" stop="20200706160000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706150000 +0000" stop="20200706160000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Access Daily</title>
   </programme>
-  <programme start="20200706160000 +0000" stop="20200706163000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706160000 +0000" stop="20200706163000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Paid Programming</title>
   </programme>
-  <programme start="20200706163000 +0000" stop="20200706170000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706163000 +0000" stop="20200706170000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Access Hollywood</title>
   </programme>
-  <programme start="20200706170000 +0000" stop="20200706180000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706170000 +0000" stop="20200706180000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Days of Our Lives</title>
   </programme>
-  <programme start="20200706180000 +0000" stop="20200706190000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706180000 +0000" stop="20200706190000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Dateline</title>
   </programme>
-  <programme start="20200706190000 +0000" stop="20200706200000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706190000 +0000" stop="20200706200000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">The Doctors</title>
   </programme>
-  <programme start="20200706200000 +0000" stop="20200706210000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706200000 +0000" stop="20200706210000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">The Dr. Oz Show</title>
   </programme>
-  <programme start="20200706210000 +0000" stop="20200706213000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706210000 +0000" stop="20200706213000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Judge Judy</title>
   </programme>
-  <programme start="20200706213000 +0000" stop="20200706220000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706213000 +0000" stop="20200706220000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Judge Judy</title>
   </programme>
-  <programme start="20200706220000 +0000" stop="20200706223000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706220000 +0000" stop="20200706223000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">NewsChannel34 at 6:00pm</title>
   </programme>
-  <programme start="20200706223000 +0000" stop="20200706230000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706223000 +0000" stop="20200706230000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">NBC Nightly News With Lester Holt</title>
   </programme>
-  <programme start="20200706230000 +0000" stop="20200706233000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706230000 +0000" stop="20200706233000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Modern Family</title>
   </programme>
-  <programme start="20200706233000 +0000" stop="20200707000000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200706233000 +0000" stop="20200707000000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Modern Family</title>
   </programme>
-  <programme start="20200707000000 +0000" stop="20200707010000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707000000 +0000" stop="20200707010000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">The Titan Games</title>
   </programme>
-  <programme start="20200707010000 +0000" stop="20200707020000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707010000 +0000" stop="20200707020000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">The Wall</title>
   </programme>
-  <programme start="20200707020000 +0000" stop="20200707030000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707020000 +0000" stop="20200707030000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Dateline NBC</title>
   </programme>
-  <programme start="20200707030000 +0000" stop="20200707033400 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707030000 +0000" stop="20200707033400 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">NewsChannel34 Update</title>
   </programme>
-  <programme start="20200707033400 +0000" stop="20200707043600 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707033400 +0000" stop="20200707043600 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
   </programme>
-  <programme start="20200707043600 +0000" stop="20200707053600 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707043600 +0000" stop="20200707053600 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Late Night With Seth Meyers</title>
   </programme>
-  <programme start="20200707053600 +0000" stop="20200707060600 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707053600 +0000" stop="20200707060600 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">A Little Late With Lilly Singh</title>
   </programme>
-  <programme start="20200707060600 +0000" stop="20200707070000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707060600 +0000" stop="20200707070000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Today with Hoda &amp; Jenna</title>
   </programme>
-  <programme start="20200707070000 +0000" stop="20200707083000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707070000 +0000" stop="20200707083000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Early Today</title>
   </programme>
-  <programme start="20200707083000 +0000" stop="20200707090000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707083000 +0000" stop="20200707090000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Early Today</title>
   </programme>
-  <programme start="20200707090000 +0000" stop="20200707093000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707090000 +0000" stop="20200707093000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">AgDay</title>
   </programme>
-  <programme start="20200707093000 +0000" stop="20200707103000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707093000 +0000" stop="20200707103000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Paid Programming</title>
   </programme>
-  <programme start="20200707103000 +0000" stop="20200707110000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707103000 +0000" stop="20200707110000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Early Today</title>
   </programme>
-  <programme start="20200707110000 +0000" stop="20200707130000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707110000 +0000" stop="20200707130000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Today</title>
   </programme>
-  <programme start="20200707130000 +0000" stop="20200707140000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707130000 +0000" stop="20200707140000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Today 3rd Hour</title>
   </programme>
-  <programme start="20200707140000 +0000" stop="20200707150000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707140000 +0000" stop="20200707150000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Today with Hoda &amp; Jenna</title>
   </programme>
-  <programme start="20200707150000 +0000" stop="20200707160000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707150000 +0000" stop="20200707160000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Access Daily</title>
   </programme>
-  <programme start="20200707160000 +0000" stop="20200707163000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707160000 +0000" stop="20200707163000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Paid Programming</title>
   </programme>
-  <programme start="20200707163000 +0000" stop="20200707170000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707163000 +0000" stop="20200707170000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Access Hollywood</title>
   </programme>
-  <programme start="20200707170000 +0000" stop="20200707180000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707170000 +0000" stop="20200707180000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Days of Our Lives</title>
   </programme>
-  <programme start="20200707180000 +0000" stop="20200707190000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707180000 +0000" stop="20200707190000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Dateline</title>
   </programme>
-  <programme start="20200707190000 +0000" stop="20200707200000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707190000 +0000" stop="20200707200000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">The Doctors</title>
   </programme>
-  <programme start="20200707200000 +0000" stop="20200707210000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707200000 +0000" stop="20200707210000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">The Dr. Oz Show</title>
   </programme>
-  <programme start="20200707210000 +0000" stop="20200707213000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707210000 +0000" stop="20200707213000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Judge Judy</title>
   </programme>
-  <programme start="20200707213000 +0000" stop="20200707220000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707213000 +0000" stop="20200707220000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Judge Judy</title>
   </programme>
-  <programme start="20200707220000 +0000" stop="20200707223000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707220000 +0000" stop="20200707223000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">NewsChannel34 at 6:00pm</title>
   </programme>
-  <programme start="20200707223000 +0000" stop="20200707230000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707223000 +0000" stop="20200707230000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">NBC Nightly News With Lester Holt</title>
   </programme>
-  <programme start="20200707230000 +0000" stop="20200707233000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707230000 +0000" stop="20200707233000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Modern Family</title>
   </programme>
-  <programme start="20200707233000 +0000" stop="20200708000000 +0000" channel="NBC 6 Miami FL (WTVJ)">
+  <programme start="20200707233000 +0000" stop="20200708000000 +0000" channel="NBC (WTVJ) (Opt-1)">
     <title lang="en">Modern Family</title>
   </programme>
 </tv>
