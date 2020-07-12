@@ -1,7 +1,7 @@
 ## EPG for IPTV ##
 ------------------
 
-Simple epg for USA networks & some other USA/UK channels. 
+Simple epg for USA networks & some other USA/UK channels
 
 Just add
 	
