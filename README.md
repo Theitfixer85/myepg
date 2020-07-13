@@ -10,4 +10,4 @@ USA
 	
 UK	
 		
-
+	https://raw.githubusercontent.com/Theitfixer85/myepg/master/ukepg.xml
