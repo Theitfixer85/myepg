@@ -1,14 +1,13 @@
 ## EPG for IPTV ##
 ------------------
 
-Simple EPG for USA networks & some other USA/UK channels
+Simple EPG for USA networks & Uk Channels
 
-Just add
+Just add one or both of the following as your EPG source <br>
+USA
+ 	
+	https://raw.githubusercontent.com/Theitfixer85/myepg/master/epg.xml
 	
- 	https://raw.githubusercontent.com/Theitfixer85/myepg/master/epg.xml
+UK	
 		
-
-As your EPG source
-
-
 
