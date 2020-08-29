@@ -5,5 +5,5 @@ Simple EPG for USA networks & Uk Channels
 
 Just add the combined EPG below as your EPG source
  	
-	No Longer Publically Supporting
+	No Longer Publicly Supporting
 	
