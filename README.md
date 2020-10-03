@@ -1,9 +1,6 @@
-## EPG for IPTV ##
+## My EPG ##
 ------------------
 
-Simple EPG for USA networks & Uk Channels
-
-Just add the combined EPG below as your EPG source
- 	
-	No Longer Publicly Supporting
+This will only work automatically on the playlist it is meant to be used on. 
+If you randomly stumble across this it will not automatically work for you unless your program can manually assign epg data from the list of channels
 	
